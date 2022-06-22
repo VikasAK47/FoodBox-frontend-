@@ -5,6 +5,7 @@ import { FootWear } from '../common/footwear';
 import { FoodItem } from '../common/FoodItem';
 
 @Injectable({
+
   providedIn: 'root'
 })
 export class AuthenticationService {
